@@ -5,7 +5,7 @@ If an idea comes to my mind, chances are i deploy it and make it publically avai
 
 🛠️ Tech & Tools I Work With: Python • Linux • Git • Docker • Flask • Django • MongoDB • MySQL • Node.js • HTML/CSS • Bash • Figma
 
-Fun Fact: Am also a Graphic Designer and Video Editor!
+Fun Fact: Am also a Video Editor!
 <!--
 **peanutbutter4351/peanutbutter4351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
